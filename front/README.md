@@ -1,7 +1,3 @@
-# persica
-
-> persica store frontend
-
 ## Build Setup
 
 ```bash
