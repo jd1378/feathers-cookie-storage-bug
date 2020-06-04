@@ -1,0 +1,13 @@
+
+html {
+  min-height: 100vh;
+}
+
+html, body, #__nuxt, #__layout {
+  scroll-behavior: smooth;
+  display: flex;
+  width: 100%;
+  text-align: right;
+}
+
+@import "../css/tailwind.min.css";

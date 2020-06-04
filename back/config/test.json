@@ -1,0 +1,4 @@
+{
+  "mongodb": "mongodb://localhost:27017/persica_test",
+  "collectionName": "persica_test"
+}

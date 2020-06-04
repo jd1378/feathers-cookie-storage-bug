@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "~/*": ["./*"],
+      "@/*": ["./*"],
+      "~~/*": ["./*"],
+      "@@/*": ["./*"],
+    },
+    "strict": true,
+    "target": "es6",
+  },
+  "exclude": ["node_modules", ".nuxt", "dist"],
+  "typeAcquisition": {
+    "include": [
+      "jest"
+    ]
+  }
+}

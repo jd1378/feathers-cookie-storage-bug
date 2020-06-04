@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "strict": true,
+    "target": "es2018",
+    "module": "commonJS"
+  },
+  "typeAcquisition": {
+    "include": [
+      "jest"
+    ]
+  }
+}
